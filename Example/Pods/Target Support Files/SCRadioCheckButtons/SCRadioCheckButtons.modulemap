@@ -1,0 +1,6 @@
+framework module SCRadioCheckButtons {
+  umbrella header "SCRadioCheckButtons-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,26 @@
+PODS:
+  - FBSnapshotTestCase (2.1.0):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.0)
+  - FBSnapshotTestCase/Core (2.1.0)
+  - FBSnapshotTestCase/SwiftSupport (2.1.0):
+    - FBSnapshotTestCase/Core
+  - Kiwi (2.4.0)
+  - SCRadioCheckButtons (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Kiwi
+  - SCRadioCheckButtons (from `../`)
+
+EXTERNAL SOURCES:
+  SCRadioCheckButtons:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 366ecd378511d7716c79991cd8067d1eed23578d
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  SCRadioCheckButtons: 6ac6f99419bb1c694b1ce66aca1ded78b18a1d36
+
+PODFILE CHECKSUM: 388f031c5b48465d8dca7da9b6bbb6f9fc2b07d0
+
+COCOAPODS: 1.0.0.beta.1
