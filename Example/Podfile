@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'SCRadioCheckButtons_Example' do
+  pod 'SCRadioCheckButtons', :path => '../'
+
+  target 'SCRadioCheckButtons_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  pod 'FBSnapshotTestCase'
+  end
+end
