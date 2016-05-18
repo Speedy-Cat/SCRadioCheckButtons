@@ -1,7 +1,7 @@
 {
   "name": "SCRadioCheckButtons",
   "version": "0.1.0",
-  "summary": "A short description of SCRadioCheckButtons.",
+  "summary": "Radio and check buttons library",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/<GITHUB_USERNAME>/SCRadioCheckButtons",
   "license": "MIT",
@@ -15,5 +15,10 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SCRadioCheckButtons/Classes/**/*"
+  "source_files": "SCRadioCheckButtons/Classes/**/*",
+  "resource_bundles": {
+    "SCRadioCheckButtons": [
+      "SCRadioCheckButtons/Assets/*.png"
+    ]
+  }
 }

@@ -22,7 +22,7 @@ pod "SCRadioCheckButtons"
 
 ## Author
 
-Adrian Ortuzar, adrian.ortuzar@scaura.com
+Adrian Ortuzar, adrianortuzar@gmail.com
 
 ## License
 

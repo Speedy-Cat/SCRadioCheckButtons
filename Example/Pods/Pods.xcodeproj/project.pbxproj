@@ -25,6 +25,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>01F632BC0B718F64BF70AC1D47BF05E0</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>14BFA60D0CAA951905A1035C920FEA74</string>
+				<string>34A7F39F0C126623746D018383922CF4</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
 		<key>024453DF9744F69876C0BBA131271D60</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -185,6 +199,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>05FEDDF087E4AFB3F4E25D0D128A4E62</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>64D418FC58CC63D01D9E3EC0E90719B2</string>
+				<string>FCBA22CFDFBAC9E7033B331FA7B3474C</string>
+			</array>
+			<key>isa</key>
+			<string>PBXResourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
 		<key>0B0282DF7C4925725DEE53C84701AAC7</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -251,7 +279,7 @@
 			<key>productName</key>
 			<string>Kiwi</string>
 			<key>productReference</key>
-			<string>4B0C8430D20DBE6D996A33D769C7E07F</string>
+			<string>EC781380CDDD654C8D42DE362B796E86</string>
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
 		</dict>
@@ -360,6 +388,22 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>0F4AF7AFC50DE922C32E23DE9F5791D5</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>A563534DB40C46DF4C7350BAEE70190C</string>
+				<string>AEECF0063E035AB6DBA319332E2C8837</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Assets</string>
+			<key>path</key>
+			<string>Assets</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>101263181B126E2B841550497C010BA9</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -372,6 +416,19 @@
 			<string>KWMessageTracker.h</string>
 			<key>path</key>
 			<string>Classes/Core/KWMessageTracker.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>124553E18E45CB3F3A7CF9BB7A0FB3F2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>_SCRadioCheckButton.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -466,6 +523,34 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>14BFA60D0CAA951905A1035C920FEA74</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>C6AD1B898D5AAA47DEC4B9FBEA744C62</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_NO_COMMON_BLOCKS</key>
+				<string>YES</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/SCRadioCheckButtons/ResourceBundle-SCRadioCheckButtons-Info.plist</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>PRODUCT_NAME</key>
+				<string>SCRadioCheckButtons</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>WRAPPER_EXTENSION</key>
+				<string>bundle</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
 		<key>14EBED3AF8A3D20B98A7AFF89DA921F3</key>
 		<dict>
 			<key>containerPortal</key>
@@ -509,33 +594,14 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>182863CB2F70EC3B504CBC3E5A9E1811</key>
+		<key>189322345CAACD32D252CE5CF7077362</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
 			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>18F45568E7C569422CBED15F14B54532</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2BEB57F401076BCE64363F1A456064C4</string>
-				<string>4B0C8430D20DBE6D996A33D769C7E07F</string>
-				<string>A10B3E5258E3C96C686D8353F9460C58</string>
-				<string>7935C311C3B93D33CA18ACD2078DE42E</string>
-				<string>B28F9EC7E4C450A0EBDC9CD5C67246BA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
+			<string>SCRadioCheckButtons.modulemap</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -597,6 +663,21 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>1A7C46AE98673712865CB9904DAEACF1</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>F183F918E71E0E99AFDCF084B0C925DA</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>SCRadioCheckButtons</string>
+			<key>path</key>
+			<string>SCRadioCheckButtons</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>1AB56B58F74658A69520601DF94CABFE</key>
 		<dict>
@@ -1149,6 +1230,13 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
+		<key>2A56D42064F6CA3739D6374F6501B81C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A8907A48E3DFB8DF8CBC775B65BA2776</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>2AE1C03567E38C3E6AD995E5757FBCC3</key>
 		<dict>
 			<key>fileRef</key>
@@ -1182,21 +1270,6 @@
 			<string>Info.plist</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2BEB57F401076BCE64363F1A456064C4</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>FBSnapshotTestCase.framework</string>
-			<key>path</key>
-			<string>FBSnapshotTestCase.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
 		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
 		<dict>
@@ -1478,6 +1551,34 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>34A7F39F0C126623746D018383922CF4</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>C6AD1B898D5AAA47DEC4B9FBEA744C62</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_NO_COMMON_BLOCKS</key>
+				<string>YES</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/SCRadioCheckButtons/ResourceBundle-SCRadioCheckButtons-Info.plist</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>PRODUCT_NAME</key>
+				<string>SCRadioCheckButtons</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>WRAPPER_EXTENSION</key>
+				<string>bundle</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
 		<key>34D8D1FD80C0242CBAFD04A1CC5B5024</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1677,19 +1778,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3A5EEDEAAC29A6817424D79AB9F1AE28</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>SCRadioCheckButtons-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>3AC3DD23771C305AFAA9AA9CBAB94692</key>
 		<dict>
 			<key>fileRef</key>
@@ -1791,6 +1879,19 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>3E555A3D8E63912E01599CD50FDC2505</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>SCRadioButton.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>3FA550F4FAD8747FA239C4F9A650FE98</key>
 		<dict>
@@ -2341,13 +2442,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>4773F1C0C039FFE5F9C62AD3E6E56E9B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B3DFD0DA336F9134F3217266C70A7E23</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>48016E13D79FE3608EC1EBC607F664E4</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2451,39 +2545,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>4923B52A3FDA3566A45B0D76D86A7B32</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>182863CB2F70EC3B504CBC3E5A9E1811</string>
-				<string>915457BC04E26966E855EE6189970CB8</string>
-				<string>BE5C4CEBA42067B230F06E2CE16919B1</string>
-				<string>B3DFD0DA336F9134F3217266C70A7E23</string>
-				<string>3A5EEDEAAC29A6817424D79AB9F1AE28</string>
-				<string>B7AA293B10BD1C9065F30E65CDAE00B5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/SCRadioCheckButtons</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4976C956EA9DCA366710ABD8F0FA0AE4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ReplaceMe.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>498ED088865070C2F42EF313C991D43D</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2539,21 +2600,6 @@
 			<string>Classes/Shared Examples/KWSharedExample.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4B0C8430D20DBE6D996A33D769C7E07F</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Kiwi.framework</string>
-			<key>path</key>
-			<string>Kiwi.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
 		<key>4C4463E2B6B49949663B45EA8DE13659</key>
 		<dict>
@@ -2638,6 +2684,17 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>4E10A52AB554EDB5130236956B844FE7</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>SCRadioCheckButtons-SCRadioCheckButtons</string>
+			<key>target</key>
+			<string>D48774F5192568AD5604E378E63DDE8C</string>
+			<key>targetProxy</key>
+			<string>F15739B8A21B385BABB7E21482E30801</string>
+		</dict>
 		<key>4E1AD7A692D9DF997FC3858270CF896B</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2666,10 +2723,17 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>4E9B87AD15C2359733193468E2AD1766</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3E555A3D8E63912E01599CD50FDC2505</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>4EE8EF9B87B8A3E4063B45900A3ABEDA</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>BE5C4CEBA42067B230F06E2CE16919B1</string>
+			<string>C6AD1B898D5AAA47DEC4B9FBEA744C62</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
@@ -2798,6 +2862,20 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>5169CFF87D748D5E165DB995242E6075</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A5674C86AD215293D25B8DF4F034FAE7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>51C2279B54E053242DFC41BE405ACB2A</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2901,6 +2979,17 @@
 				</array>
 			</dict>
 		</dict>
+		<key>53DAD8184A8ABA4C19E1DAB44959EFD8</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
 		<key>5417516EA9DCF9BDF0D0B82AD8F86B38</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2925,6 +3014,19 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
+		</dict>
+		<key>54525A8F9283BEB544F3970ED72768FC</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>F1B9E196DCEEE20B0015070A8791DDA4</string>
+			</array>
+			<key>isa</key>
+			<string>PBXResourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>5511AE9123CA02FA2BBFF04F12D884EF</key>
 		<dict>
@@ -3207,6 +3309,21 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>60323400EFF9FFD5545C005E3C3D8ADF</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>FBSnapshotTestCase.framework</string>
+			<key>path</key>
+			<string>FBSnapshotTestCase.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
 		<key>605384E67864AA2C9212E81B9C90E164</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3343,6 +3460,13 @@
 			<string>Classes/Nodes/KWBlockNode.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>64D418FC58CC63D01D9E3EC0E90719B2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A563534DB40C46DF4C7350BAEE70190C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>6526400C95C98D5A7BE1B479A98BFF8F</key>
 		<dict>
@@ -3569,19 +3693,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>697112F02BE6ABFFBB52DCFA0816CFCC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>9803E4258D21C819E959306CA0801C6F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>69D46FE24E055A472F063329524D5F33</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3737,21 +3848,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>6FAF26FE5E27C39B8AF8C25DD5EBE8DC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>8FFAB3E38B9AC7B57CED22516BCB9DEC</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>SCRadioCheckButtons</string>
-			<key>path</key>
-			<string>SCRadioCheckButtons</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>708364837B4B2B4A755C78F12FFFEB57</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3766,6 +3862,23 @@
 			<string>Classes/Core/KWMatchers.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>708C4CF5E8593869E1328E6F8D1A1230</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>74FB28B6F467AF6C0C3644BC1BD6FC15</string>
+				<string>E4086D11561512038BC669766043DE51</string>
+				<string>4E9B87AD15C2359733193468E2AD1766</string>
+				<string>C01D0AAA935D7985C66D1AAA273C83F4</string>
+				<string>2A56D42064F6CA3739D6374F6501B81C</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>70F0378D63DE3D2DCC739550669BD46A</key>
 		<dict>
@@ -3922,6 +4035,19 @@
 				</array>
 			</dict>
 		</dict>
+		<key>73E8674E1AB5C4109C20BA42342F9AA4</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>AB8B32771A487FF327E89F4B38C72AAA</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Development Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>74EC1A1297F30B5475F38E99C9ADB18C</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3936,6 +4062,13 @@
 			<string>Classes/Core/KWWorkarounds.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>74FB28B6F467AF6C0C3644BC1BD6FC15</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D380A4C6DD1AE72DB0A3BDD8A70452EE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>75162A7EFD6D1DACA9CBB27C1C3DCF40</key>
 		<dict>
@@ -4084,7 +4217,7 @@
 			<key>productName</key>
 			<string>FBSnapshotTestCase</string>
 			<key>productReference</key>
-			<string>2BEB57F401076BCE64363F1A456064C4</string>
+			<string>60323400EFF9FFD5545C005E3C3D8ADF</string>
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
 		</dict>
@@ -4101,21 +4234,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>7935C311C3B93D33CA18ACD2078DE42E</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_SCRadioCheckButtons_Tests.framework</string>
-			<key>path</key>
-			<string>Pods-SCRadioCheckButtons_Tests.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
 		<key>7A6C4B78F9C48A6CC4BC23CC03B30E4D</key>
 		<dict>
@@ -4221,10 +4339,10 @@
 			<key>children</key>
 			<array>
 				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
-				<string>697112F02BE6ABFFBB52DCFA0816CFCC</string>
+				<string>73E8674E1AB5C4109C20BA42342F9AA4</string>
 				<string>14B8B9B15ECBE87983FF987239AB2D7B</string>
 				<string>48B559057FBFB6B4716FC5FFD07D6943</string>
-				<string>18F45568E7C569422CBED15F14B54532</string>
+				<string>809B9DED7AD1E0AEB2C8329EDD93E272</string>
 				<string>FDBE6A1E239B3F49C845257110AB4D3B</string>
 			</array>
 			<key>isa</key>
@@ -4301,6 +4419,24 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>809B9DED7AD1E0AEB2C8329EDD93E272</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>60323400EFF9FFD5545C005E3C3D8ADF</string>
+				<string>EC781380CDDD654C8D42DE362B796E86</string>
+				<string>B39CFDDFFB469A649D6B36E2B96D8EF2</string>
+				<string>C5B67207F2A6752BE1E9630CC0558C6C</string>
+				<string>A105EA94E1B7D8FE4C46DF8837313B4B</string>
+				<string>B687152DA190FF24136B3E8039B9A89A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>810A3DAFAACFE2D1583D9027A54E38C9</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -4328,6 +4464,19 @@
 			<string>KWMatcherFactory.h</string>
 			<key>path</key>
 			<string>Classes/Core/KWMatcherFactory.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>81E2953A0A3FD510D5148B561F46C3B4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Info.plist</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -4458,7 +4607,7 @@
 			<key>productName</key>
 			<string>Pods-SCRadioCheckButtons_Example</string>
 			<key>productReference</key>
-			<string>A10B3E5258E3C96C686D8353F9460C58</string>
+			<string>B39CFDDFFB469A649D6B36E2B96D8EF2</string>
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
 		</dict>
@@ -4770,38 +4919,12 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8FFAB3E38B9AC7B57CED22516BCB9DEC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>4976C956EA9DCA366710ABD8F0FA0AE4</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>90B7E2F40E17730F3E28449559B458E0</key>
 		<dict>
 			<key>fileRef</key>
 			<string>031C5680F41D4C925D54708F14994344</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>915457BC04E26966E855EE6189970CB8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>SCRadioCheckButtons.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>91D6715AAA080BB7F6A9E4073300F3A0</key>
 		<dict>
@@ -4816,6 +4939,27 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>9230697F13E02D548DCF87016A060345</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>81E2953A0A3FD510D5148B561F46C3B4</string>
+				<string>CF09799C2C8B2A3ABECC72E22520918A</string>
+				<string>189322345CAACD32D252CE5CF7077362</string>
+				<string>C6AD1B898D5AAA47DEC4B9FBEA744C62</string>
+				<string>A8907A48E3DFB8DF8CBC775B65BA2776</string>
+				<string>F508E925C5FFBF6E0FEB4F4FE8C2C10A</string>
+				<string>CB2A4FF04E3C2FDBDD43BE20492B5CA6</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>Example/Pods/Target Support Files/SCRadioCheckButtons</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>9245F37BF146A2F9CB152AB911B865BD</key>
 		<dict>
@@ -5077,19 +5221,16 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>9803E4258D21C819E959306CA0801C6F</key>
+		<key>97AC53C8B9DD4A81869FF259E8678681</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>6FAF26FE5E27C39B8AF8C25DD5EBE8DC</string>
-				<string>4923B52A3FDA3566A45B0D76D86A7B32</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>SCRadioCheckButtons</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>../..</string>
+			<string>SCCheckBoxButton.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5496,18 +5637,18 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>A10B3E5258E3C96C686D8353F9460C58</key>
+		<key>A105EA94E1B7D8FE4C46DF8837313B4B</key>
 		<dict>
 			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
+			<string>wrapper.cfbundle</string>
 			<key>includeInIndex</key>
 			<string>0</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>Pods_SCRadioCheckButtons_Example.framework</string>
+			<string>SCRadioCheckButtons.bundle</string>
 			<key>path</key>
-			<string>Pods-SCRadioCheckButtons_Example.framework</string>
+			<string>SCRadioCheckButtons.bundle</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
@@ -5563,6 +5704,20 @@
 			<dict>
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>A39307F6D8293A330779D11C884853DB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CB2A4FF04E3C2FDBDD43BE20492B5CA6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
 			</dict>
 		</dict>
 		<key>A3F8EC9FB8D72822E083EDF182EFE1D6</key>
@@ -5723,6 +5878,43 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>A563534DB40C46DF4C7350BAEE70190C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>checkmark.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A5674C86AD215293D25B8DF4F034FAE7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>SCRadioButtonCollection.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A589D8461031703E8B841234AF54475B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>SCRadioButtonCollection.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>A6B22B6FCF95C459CA2789D5A3A3BBCB</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -5809,6 +6001,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>A8907A48E3DFB8DF8CBC775B65BA2776</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>SCRadioCheckButtons-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>A8908F03C70FB33860754009F1AD2D94</key>
 		<dict>
 			<key>fileRef</key>
@@ -5825,6 +6030,20 @@
 		<dict>
 			<key>fileRef</key>
 			<string>B0DC6B71A536A0557E05EDB6009498B9</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>A926DA9EE5E9689E126558D825708480</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F602A2945B5BCCA0ED9DEF3F78D34120</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -5940,6 +6159,23 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>AB8B32771A487FF327E89F4B38C72AAA</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>C8389E6825880A833DE884C13E5AAA0F</string>
+				<string>1A7C46AE98673712865CB9904DAEACF1</string>
+				<string>9230697F13E02D548DCF87016A060345</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>SCRadioCheckButtons</string>
+			<key>path</key>
+			<string>../..</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>ABF76CA22AA9C5D9125267390EFA5ABD</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -5955,6 +6191,23 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>ADFACC9036E3D61FF53241995E45205F</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>F453D6589DEE3B29DE464406BF0D4EFA</string>
+				<string>EE435D1017818474841FDA65668402B0</string>
+				<string>A926DA9EE5E9689E126558D825708480</string>
+				<string>5169CFF87D748D5E165DB995242E6075</string>
+				<string>A39307F6D8293A330779D11C884853DB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
 		<key>AEBA7273A59F2B043A31661C1CB1604C</key>
 		<dict>
 			<key>fileRef</key>
@@ -5968,6 +6221,17 @@
 					<string>Private</string>
 				</array>
 			</dict>
+		</dict>
+		<key>AEECF0063E035AB6DBA319332E2C8837</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>checkmark@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>AFB1684DF1D07855ED1869DCAB117AA7</key>
 		<dict>
@@ -6028,7 +6292,7 @@
 		<key>B1D56786AC0990C208DD34974EC00552</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>BE5C4CEBA42067B230F06E2CE16919B1</string>
+			<string>C6AD1B898D5AAA47DEC4B9FBEA744C62</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
@@ -6160,21 +6424,6 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>B28F9EC7E4C450A0EBDC9CD5C67246BA</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>SCRadioCheckButtons.framework</string>
-			<key>path</key>
-			<string>SCRadioCheckButtons.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
 		<key>B33A3BC7B8EF3996AF0DBB495742B22D</key>
 		<dict>
 			<key>fileRef</key>
@@ -6202,6 +6451,21 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>B39CFDDFFB469A649D6B36E2B96D8EF2</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods_SCRadioCheckButtons_Example.framework</string>
+			<key>path</key>
+			<string>Pods-SCRadioCheckButtons_Example.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
 		<key>B3CACA28C4C3F9A6C7317CBCEABAE0EB</key>
 		<dict>
 			<key>fileRef</key>
@@ -6228,19 +6492,6 @@
 			<string>KWExampleSuiteBuilder.h</string>
 			<key>path</key>
 			<string>Classes/Core/KWExampleSuiteBuilder.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B3DFD0DA336F9134F3217266C70A7E23</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>SCRadioCheckButtons-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6287,6 +6538,21 @@
 			<string>Classes/Matchers/KWBeTrueMatcher.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B687152DA190FF24136B3E8039B9A89A</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>SCRadioCheckButtons.framework</string>
+			<key>path</key>
+			<string>SCRadioCheckButtons.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
 		<key>B7062DBFF707BEF699191AE7C84AA863</key>
 		<dict>
@@ -6363,19 +6629,6 @@
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Debug</string>
-		</dict>
-		<key>B7AA293B10BD1C9065F30E65CDAE00B5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>SCRadioCheckButtons-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>B8A99F1C9B33C6834DC4763D68244B15</key>
 		<dict>
@@ -6540,19 +6793,6 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>BE5C4CEBA42067B230F06E2CE16919B1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>SCRadioCheckButtons.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>BF76A002BD1832A0741E10E3E987D3D3</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -6581,6 +6821,13 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>C01D0AAA935D7985C66D1AAA273C83F4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A589D8461031703E8B841234AF54475B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>C08587D2C2D77A928DF715E70BE2ECC9</key>
 		<dict>
@@ -6710,19 +6957,20 @@
 				</array>
 			</dict>
 		</dict>
-		<key>C577E4D09025642BD38E47380557BF6F</key>
+		<key>C5B67207F2A6752BE1E9630CC0558C6C</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>EAB26467C098750BF20F7C1277674BD8</string>
-				<string>4773F1C0C039FFE5F9C62AD3E6E56E9B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
 			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods_SCRadioCheckButtons_Tests.framework</string>
+			<key>path</key>
+			<string>Pods-SCRadioCheckButtons_Tests.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
 		<key>C5C081A0337FC266B8C37E0D858AB743</key>
 		<dict>
@@ -6750,6 +6998,19 @@
 			<string>KWRespondToSelectorMatcher.m</string>
 			<key>path</key>
 			<string>Classes/Matchers/KWRespondToSelectorMatcher.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C6AD1B898D5AAA47DEC4B9FBEA744C62</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>SCRadioCheckButtons.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6793,6 +7054,32 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
+		</dict>
+		<key>C822349B7C3CDF9FF7502A4D9A1B6C44</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>SCCheckBoxButton.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C8389E6825880A833DE884C13E5AAA0F</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>CE10E4E0BBC4F124662C83527F465924</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Resources</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>C891B5708EF37C877F60037E993A76FF</key>
 		<dict>
@@ -6863,6 +7150,19 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
+		<key>CB2A4FF04E3C2FDBDD43BE20492B5CA6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>SCRadioCheckButtons-umbrella.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>CB2F9DF8C413D68C84CDE41F70A387FC</key>
 		<dict>
 			<key>fileRef</key>
@@ -6890,19 +7190,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>CDD2A58F05B587650B8E48F73E3C5057</key>
+		<key>CE10E4E0BBC4F124662C83527F465924</key>
 		<dict>
-			<key>fileRef</key>
-			<string>B7AA293B10BD1C9065F30E65CDAE00B5</string>
+			<key>children</key>
+			<array>
+				<string>0F4AF7AFC50DE922C32E23DE9F5791D5</string>
+			</array>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>SCRadioCheckButtons</string>
+			<key>path</key>
+			<string>SCRadioCheckButtons</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>CE29CC687AA9D2E8308CBB9A38A83C2B</key>
 		<dict>
@@ -6943,6 +7244,19 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
+		</dict>
+		<key>CF09799C2C8B2A3ABECC72E22520918A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>ResourceBundle-SCRadioCheckButtons-Info.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>CF398E70EA7A1857E3A0EF93B7E96F08</key>
 		<dict>
@@ -6988,14 +7302,17 @@
 			<string>29EB2AAFE0F9C79F268211C4C1522256</string>
 			<key>buildPhases</key>
 			<array>
-				<string>C577E4D09025642BD38E47380557BF6F</string>
+				<string>708C4CF5E8593869E1328E6F8D1A1230</string>
 				<string>84C25C90B2B5BFC113C0E70C680AA1CB</string>
-				<string>F2ACBDCFF9D052FC1971BE54F570A83C</string>
+				<string>54525A8F9283BEB544F3970ED72768FC</string>
+				<string>ADFACC9036E3D61FF53241995E45205F</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
 			<key>dependencies</key>
-			<array/>
+			<array>
+				<string>4E10A52AB554EDB5130236956B844FE7</string>
+			</array>
 			<key>isa</key>
 			<string>PBXNativeTarget</string>
 			<key>name</key>
@@ -7003,7 +7320,7 @@
 			<key>productName</key>
 			<string>SCRadioCheckButtons</string>
 			<key>productReference</key>
-			<string>B28F9EC7E4C450A0EBDC9CD5C67246BA</string>
+			<string>B687152DA190FF24136B3E8039B9A89A</string>
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
 		</dict>
@@ -7078,6 +7395,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>D380A4C6DD1AE72DB0A3BDD8A70452EE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>_SCRadioCheckButton.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>D39F8CD00049355BD5004B023A15DFB5</key>
 		<dict>
 			<key>fileRef</key>
@@ -7131,7 +7461,7 @@
 			<key>mainGroup</key>
 			<string>7DB346D0F39D3F0E887471402A8071AB</string>
 			<key>productRefGroup</key>
-			<string>18F45568E7C569422CBED15F14B54532</string>
+			<string>809B9DED7AD1E0AEB2C8329EDD93E272</string>
 			<key>projectDirPath</key>
 			<string></string>
 			<key>projectReferences</key>
@@ -7145,7 +7475,33 @@
 				<string>85BDEE1DEF8B1AEEB74AD5F506BFBAC0</string>
 				<string>FFB3B2B86C9015580EFF59D42C075711</string>
 				<string>CF9262B710282C61E5B90D6A4CF5EC0E</string>
+				<string>D48774F5192568AD5604E378E63DDE8C</string>
 			</array>
+		</dict>
+		<key>D48774F5192568AD5604E378E63DDE8C</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>01F632BC0B718F64BF70AC1D47BF05E0</string>
+			<key>buildPhases</key>
+			<array>
+				<string>E6D2548F38876CBB25A782D7B45022D3</string>
+				<string>53DAD8184A8ABA4C19E1DAB44959EFD8</string>
+				<string>05FEDDF087E4AFB3F4E25D0D128A4E62</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>SCRadioCheckButtons-SCRadioCheckButtons</string>
+			<key>productName</key>
+			<string>SCRadioCheckButtons-SCRadioCheckButtons</string>
+			<key>productReference</key>
+			<string>A105EA94E1B7D8FE4C46DF8837313B4B</string>
+			<key>productType</key>
+			<string>com.apple.product-type.bundle</string>
 		</dict>
 		<key>D61D2D426EC239E4DE94DB14353A263B</key>
 		<dict>
@@ -7538,6 +7894,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>E4086D11561512038BC669766043DE51</key>
+		<dict>
+			<key>fileRef</key>
+			<string>97AC53C8B9DD4A81869FF259E8678681</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>E44BA8216CB73A40822467A02D7D847B</key>
 		<dict>
 			<key>fileRef</key>
@@ -7614,6 +7977,17 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>E6D2548F38876CBB25A782D7B45022D3</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>E77B9FBB632507424E8A30E93536151A</key>
 		<dict>
@@ -7717,13 +8091,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>EAB26467C098750BF20F7C1277674BD8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4976C956EA9DCA366710ABD8F0FA0AE4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>EAF88EA8DE9C6D657BE42CF487C65FB8</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7768,6 +8135,21 @@
 				</array>
 			</dict>
 		</dict>
+		<key>EC781380CDDD654C8D42DE362B796E86</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Kiwi.framework</string>
+			<key>path</key>
+			<string>Kiwi.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
 		<key>ED7746A999AD759C18935E589411A984</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7807,6 +8189,20 @@
 			<dict>
 				<key>COMPILER_FLAGS</key>
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>EE435D1017818474841FDA65668402B0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C822349B7C3CDF9FF7502A4D9A1B6C44</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
 			</dict>
 		</dict>
 		<key>EE7F0F8DD63D129C34ABC2E2C47B141E</key>
@@ -7898,6 +8294,48 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
+		<key>F15739B8A21B385BABB7E21482E30801</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>D41D8CD98F00B204E9800998ECF8427E</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>D48774F5192568AD5604E378E63DDE8C</string>
+			<key>remoteInfo</key>
+			<string>SCRadioCheckButtons-SCRadioCheckButtons</string>
+		</dict>
+		<key>F183F918E71E0E99AFDCF084B0C925DA</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>124553E18E45CB3F3A7CF9BB7A0FB3F2</string>
+				<string>D380A4C6DD1AE72DB0A3BDD8A70452EE</string>
+				<string>C822349B7C3CDF9FF7502A4D9A1B6C44</string>
+				<string>97AC53C8B9DD4A81869FF259E8678681</string>
+				<string>F602A2945B5BCCA0ED9DEF3F78D34120</string>
+				<string>3E555A3D8E63912E01599CD50FDC2505</string>
+				<string>A5674C86AD215293D25B8DF4F034FAE7</string>
+				<string>A589D8461031703E8B841234AF54475B</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Classes</string>
+			<key>path</key>
+			<string>Classes</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F1B9E196DCEEE20B0015070A8791DDA4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A105EA94E1B7D8FE4C46DF8837313B4B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>F2664B70DA3A6BDCBB3D79F4D216F8CD</key>
 		<dict>
 			<key>fileRef</key>
@@ -7911,19 +8349,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>F2ACBDCFF9D052FC1971BE54F570A83C</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>CDD2A58F05B587650B8E48F73E3C5057</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
 		</dict>
 		<key>F2EE0BA1A005975B8DC3B73C3875ACD4</key>
 		<dict>
@@ -7964,6 +8389,46 @@
 			<string>Support Files</string>
 			<key>path</key>
 			<string>../Target Support Files/Kiwi</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F453D6589DEE3B29DE464406BF0D4EFA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>124553E18E45CB3F3A7CF9BB7A0FB3F2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>F508E925C5FFBF6E0FEB4F4FE8C2C10A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>SCRadioCheckButtons-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F602A2945B5BCCA0ED9DEF3F78D34120</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>SCRadioButton.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -8224,6 +8689,13 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
+		<key>FCBA22CFDFBAC9E7033B331FA7B3474C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AEECF0063E035AB6DBA319332E2C8837</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>FCF33CC52703DDAB0D51C91207F8ADF7</key>
 		<dict>
 			<key>containerPortal</key>
@@ -8358,7 +8830,7 @@
 			<key>productName</key>
 			<string>Pods-SCRadioCheckButtons_Tests</string>
 			<key>productReference</key>
-			<string>7935C311C3B93D33CA18ACD2078DE42E</string>
+			<string>C5B67207F2A6752BE1E9630CC0558C6C</string>
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
 		</dict>
